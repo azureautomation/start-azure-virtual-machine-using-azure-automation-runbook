@@ -1,0 +1,20 @@
+{
+    "Author": "Peter Selch Dahl - Azure MVP",
+    "ContentSize": 2451,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/start-azure-virtual-machine-using-azure-automation-runbook/master/Start_My_Azure_VMs.ps1",
+    "DownloadCount": 5887,
+    "Id": "Start-Azure-Virtual-1bb60f5e",
+    "IsFederated": false,
+    "IsWorkflow": true,
+    "Popularity": 357,
+    "RaterCount": 8,
+    "Rating": 3.4,
+    "ReleaseDate": "2014-4-17T00:00:00",
+    "RunbookKind": 6,
+    "RunbookKindString": "PowerShell Workflow",
+    "Summary": "Demonstrates starting all Microsoft Azure Virtual Machine in a specific Azure subscription by starting with the Microsoft Active Directory Domain Controllers. The script could be associated with the new Azure Automation Scheduler to start the Virtual Machines at specific time",
+    "Title": "Start Azure Virtual Machine using Azure Automation Runbook",
+    "UpdatedDate": "2014-4-17T00:00:00",
+    "Url": "https://github.com/azureautomation/start-azure-virtual-machine-using-azure-automation-runbook",
+    "UserTags": "Powershell, Automation, Windows Azure Virtual Machines"
+}
